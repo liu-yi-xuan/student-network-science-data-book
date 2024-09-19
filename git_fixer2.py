@@ -3,6 +3,14 @@ import time
 import glob
 import sys
 import shutil
+import argparse
+
+# Takes command line arguments
+parser = argparse.ArgumentParser()
+parser.add_argument('--ignore', help="File path patterns to ignore. Takes comma delimited strings such as \"assignment/,somefileprefix\".")
+
+args = parser.parse_args()
+
 
 # Function to check if 'upstream' remote is set up
 def check_upstream_remote():
@@ -35,7 +43,7 @@ def compare_with_upstream(file_path):
     os.system('git show upstream/main:{} > {}'.format(file_path, temp_file))
 
     # Compare the working copy with the upstream version
-    result = os.system('cmp --silent {} {}'.format(file_path, temp_file))
+    result = os.system('cmp --silent "{}" "{}"'.format(file_path, temp_file))
     
     # Clean up the temporary file
     os.remove(temp_file)
@@ -50,14 +58,27 @@ def revert_to_upstream(file_path):
 # Iterate through all tracked files to find modifications
 modified_files = []
 os.system('git ls-tree -r main --name-only > tracked_files.txt')
+
 with open('tracked_files.txt', 'r') as f:
     for file_path in f.readlines():
         file_path = file_path.strip()
+
+        # Ignore
+        # - files that has already been copied with suffix MODIFIED 
+        # - files in assignments directory
+        ignore_patterns = ['MODIFIED', 'assignments/',]
+
+        # Also take command line arguments for additional ignore patterns
+        # Usage: python3 git_fixer2.py --ignore="some_file_name,some_directory_name/"
+        if args.ignore:
+            additional_ignore_patterns = [i.strip() for i in args.ignore.split(',')]
+            ignore_patterns.extend(additional_ignore_patterns)
         
-        # Compare each file with its upstream version
-        result = compare_with_upstream(file_path)
-        if result is not None and result != 0:
-            modified_files.append(file_path)
+        if all(pattern not in file_path for pattern in ignore_patterns):
+            # Compare each file with its upstream version
+            result = compare_with_upstream(file_path)
+            if result is not None and result != 0:
+                modified_files.append(file_path)
 
 # Create copies of modified files with a "_MODIFIED_" suffix
 for file_path in modified_files:
@@ -82,7 +103,6 @@ for modified_file in modified_files:
     
     # If there are multiple modified copies, remove older duplicates
     for idx in range(1, len(matching_files)):
-        if os.system('cmp --silent {} {}'.format(matching_files[0], matching_files[idx])) == 0:
+        if os.system('cmp --silent "{}" "{}"'.format(matching_files[0], matching_files[idx])) == 0:
             os.remove(matching_files[idx])
             print("Removed duplicate modified file: {}".format(matching_files[idx]))
-
