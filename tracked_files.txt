@@ -1,9 +1,12 @@
 .gitignore
 class_00_github_computing_setup.ipynb
 class_01_python_refresher.ipynb
+class_01_python_refresher_MODIFIED_1726677142.ipynb
 class_02_networkx1.ipynb
 class_03_networkx2.ipynb
+class_03_networkx2_MODIFIED_1726677142.ipynb
 class_04_distributions.ipynb
+class_04_distributions_MODIFIED_1726677142.ipynb
 data/Fish.csv
 data/Florida-bay-meta.csv
 data/Florida-bay.txt
@@ -86,3 +89,4 @@ images/sync_fork.png
 images/whale.jpg
 intro.md
 requirements.txt
+tracked_files.txt
