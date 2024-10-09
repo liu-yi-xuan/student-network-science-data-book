@@ -1,6 +1,8 @@
 .gitignore
-_MODIFIED_1727275019.gitignore
 assignments/assignment01.ipynb
+assignments/courses.png
+assignments/df_prereq.csv
+assignments/df_prereq_pol.csv
 class_00_github_computing_setup.ipynb
 class_01_python_refresher.ipynb
 class_01_python_refresher_MODIFIED_1726677142.ipynb
@@ -9,6 +11,10 @@ class_03_networkx2.ipynb
 class_03_networkx2_MODIFIED_1726758975.ipynb
 class_04_distributions.ipynb
 class_05_scraping1.ipynb
+class_06_scraping2.ipynb
+class_07_bigdata1.ipynb
+commit_us.txt
+config_git_fixer.yml
 data/Fish.csv
 data/Florida-bay-meta.csv
 data/Florida-bay.txt

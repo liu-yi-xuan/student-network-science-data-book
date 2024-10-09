@@ -1,0 +1,1398 @@
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/26/ridley-scott-caught-in-frustration-amid-raid-at-diddy-la-area-home/ HTTP/11" 200 42568
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/23/celebs-cherry-blossoms-spring-bloom-baby/ HTTP/11" 200 33891
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/05/kylie-jenner-italian-model-claim-met-gala-fired-him-upstage-background-photos/ HTTP/11" 200 37991
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/27/bad-bunny-kendall-jenner-kim-kardashian-jeff-bezos-lauren-sanchez-hangout-greece/ HTTP/11" 200 38280
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/10/selena-gomez-quits-social-media-golden-globes-gossip-kylie-jenner/ HTTP/11" 200 40851
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/23/michael-jackson-signed-sketches-auction/ HTTP/11" 200 38461
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/24/kim-kardashian-platinum-white-basket-braids-hair-fans-roasted/ HTTP/11" 200 39038
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/19/kris-jenner-sister-karen-houghton-dead-dies/ HTTP/11" 200 38670
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/17/guess-who-this-kid-overalls-turned-into/ HTTP/11" 200 34019
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/07/drake-michael-rubin-white-party-friendly-crowd-kendrick-lamar-songs/ HTTP/11" 200 41687
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/06/kris-jenner-met-gala-look-like-bride-kim-kardshian-stuns-fashion/ HTTP/11" 200 43048
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/13/hot-babes-cold-snow-guess-who/ HTTP/11" 200 34043
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/ffffffkim-kardashian-wake-surfing-perfectly-balanced-board/ HTTP/11" 404 None
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/10/las-kardashian-llegan-a-las-vegas-con-un-hombre-que-parece-ser-justin-bieber/ HTTP/11" 200 43429
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/03/stars-in-corsets-guess-who/ HTTP/11" 200 33335
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/18/fffffkim-kardashian-broken-finger-injury-fingertip-bone-saint/ HTTP/11" 404 None
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/21/kanye-west-face-mask-milan-soccer-game-wife-bianca-censori/ HTTP/11" 200 39208
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/14/kourtney-kardashian-y-travis-barker-revelan-que-su-bebe-rocky-fue-concebido-en-san-valentin/ HTTP/11" 200 39493
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/08/selena-gomez-gossip-taylor-swift-kylie-jenner-timothee-chalamet-golden-globes/ HTTP/11" 200 43353
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/23/scott-disick-weight-loss-drugs-caught-camera-the-kardashians/ HTTP/11" 200 38992
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/28/tmz-tv-hot-takes-kim-kardashian-karrueche-tran-leveon-bell/ HTTP/11" 200 37778
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/11/bianca-censori-imita-el-estilo-de-kim-kardashian-durante-una-fiesta-en-los-angeles-con-kanye/ HTTP/11" 200 41821
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/10/shanna-moakler-recuerda-su-brutal-ruptura-con-oscar-de-la-hoya/ HTTP/11" 200 40685
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/27/khloe-kardashian-whale-kids-torment-pictures-fun-phobia/ HTTP/11" 200 38329
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/06/kim-kardashian-ivanka-trump-lauren-sanchez-reality-show-besties-birthday-dinner/ HTTP/11" 200 39837
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/23/ffffmichael-jackson-signed-sketches-auction/ HTTP/11" 404 None
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/25/fffffkhloe-kardashian-biological-age-kim-kardashian/ HTTP/11" 404 None
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/02/milf-manor-kelle-mortensen-kardashians-greatest-milfs-hot-mom/ HTTP/11" 200 40206
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/29/lizzo-dice-que-no-rechazo-el-cameo-para-la-pelicula-de-jennifer-lopez-no-se-lo-pidieron/ HTTP/11" 200 41224
+DEBUG:root:is this thing on?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/01/kardashians-gave-blessing-caitlyn-jenner-lamar-odom-podcast/ HTTP/11" 200 42648
+DEBUG:root:is this thing on?
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/07/drake-michael-rubin-white-party-friendly-crowd-kendrick-lamar-songs/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/07/drake-michael-rubin-white-party-friendly-crowd-kendrick-lamar-songs/ HTTP/11" 200 41687
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: drake
+DEBUG:root:Found person: kendrick-lamar
+DEBUG:root:Found person: michael-rubin
+DEBUG:root:Found person: lil-wayne
+DEBUG:root:Found person: travis-scott
+DEBUG:root:Found person: quavo
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: tom-brady
+DEBUG:root:Found person: megan-thee-stallion
+DEBUG:root:Found person: rob-gronkowski
+DEBUG:root:Found person: lala-anthony
+DEBUG:root:Found person: glorilla
+DEBUG:root:Found person: emily-ratajkowski
+INFO:root:People found in article: ['drake', 'kendrick-lamar', 'michael-rubin', 'lil-wayne', 'travis-scott', 'quavo', 'kim-kardashian', 'khloe-kardashian', 'tom-brady', 'megan-thee-stallion', 'rob-gronkowski', 'lala-anthony', 'glorilla', 'emily-ratajkowski']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/12/kourtney-kardashian-travis-barker-date-night-punk-festival-mosh-pit/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/12/kourtney-kardashian-travis-barker-date-night-punk-festival-mosh-pit/ HTTP/11" 200 41794
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+INFO:root:People found in article: ['kourtney-kardashian', 'travis-barker']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/24/paris-hilton-new-docuseries-tabloid-2000s-culture-toxic-book-acquire-rights/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/24/paris-hilton-new-docuseries-tabloid-2000s-culture-toxic-book-acquire-rights/ HTTP/11" 200 37844
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: paris-hilton
+DEBUG:root:Found person: britney-spears
+DEBUG:root:Found person: lindsay-lohan
+DEBUG:root:Found person: aaliyah
+DEBUG:root:Found person: janet-jackson
+DEBUG:root:Found person: amy-winehouse
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: chyna-doll
+DEBUG:root:Found person: jennifer-aniston
+INFO:root:People found in article: ['paris-hilton', 'britney-spears', 'lindsay-lohan', 'aaliyah', 'janet-jackson', 'amy-winehouse', 'kim-kardashian', 'chyna-doll', 'jennifer-aniston']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/17/bianca-censori-braless-outfit-kanye-west-mother/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/17/bianca-censori-braless-outfit-kanye-west-mother/ HTTP/11" 200 38204
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: bianca-censori
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: ty-dolla-sign
+DEBUG:root:Found person: north-west
+INFO:root:People found in article: ['bianca-censori', 'kanye-west', 'kim-kardashian', 'ty-dolla-sign', 'north-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/02/milf-manor-kelle-mortensen-kardashians-greatest-milfs-hot-mom/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/02/milf-manor-kelle-mortensen-kardashians-greatest-milfs-hot-mom/ HTTP/11" 200 40206
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: fergie
+INFO:root:People found in article: ['kris-jenner', 'kim-kardashian', 'fergie']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/30/celebrity-reactions-trump-guilty-verdict-hush-money/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/30/celebrity-reactions-trump-guilty-verdict-hush-money/ HTTP/11" 200 43532
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: donald-trump
+DEBUG:root:Found person: barbra-streisand
+DEBUG:root:Found person: kathy-griffin
+DEBUG:root:Found person: george-takei
+DEBUG:root:Found person: john-cusack
+DEBUG:root:Found person: omarosa
+DEBUG:root:Found person: caitlyn-jenner
+INFO:root:People found in article: ['donald-trump', 'barbra-streisand', 'kathy-griffin', 'george-takei', 'john-cusack', 'omarosa', 'caitlyn-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/01/el-novio-de-sabrina-carpenter-barry-keoghan-reacciona-a-su-sexy-sesion-para-skims/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/01/el-novio-de-sabrina-carpenter-barry-keoghan-reacciona-a-su-sexy-sesion-para-skims/ HTTP/11" 200 40119
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: sabrina-carpenter
+DEBUG:root:Found person: barry-keoghan
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: usher
+DEBUG:root:Found person: lana-del-rey
+DEBUG:root:Found person: taylor-swift
+INFO:root:People found in article: ['sabrina-carpenter', 'barry-keoghan', 'kim-kardashian', 'usher', 'lana-del-rey', 'taylor-swift']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/18/kim-kardashian-besa-a-emma-roberts-durante-american-horror-story/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/18/kim-kardashian-besa-a-emma-roberts-durante-american-horror-story/ HTTP/11" 200 39383
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: emma-roberts
+INFO:root:People found in article: ['kim-kardashian', 'emma-roberts']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/11/kim-kardashian-y-odell-beckham-jr-se-reencuentra-en-las-vegas-entre-rumores-de-noviazgo/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/11/kim-kardashian-y-odell-beckham-jr-se-reencuentra-en-las-vegas-entre-rumores-de-noviazgo/ HTTP/11" 200 41778
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: odell-beckham-jr
+DEBUG:root:Found person: michael-rubin
+DEBUG:root:Found person: ice-spice
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: tiffany-haddish
+DEBUG:root:Found person: karrueche-tran
+DEBUG:root:Found person: jay-z
+DEBUG:root:Found person: pete-davidson
+INFO:root:People found in article: ['kim-kardashian', 'odell-beckham-jr', 'michael-rubin', 'ice-spice', 'khloe-kardashian', 'tiffany-haddish', 'karrueche-tran', 'jay-z', 'pete-davidson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/11/bianca-censori-imita-el-estilo-de-kim-kardashian-durante-una-fiesta-en-los-angeles-con-kanye/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/11/bianca-censori-imita-el-estilo-de-kim-kardashian-durante-una-fiesta-en-los-angeles-con-kanye/ HTTP/11" 200 41821
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: bianca-censori
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: ty-dolla-sign
+INFO:root:People found in article: ['kanye-west', 'bianca-censori', 'kim-kardashian', 'ty-dolla-sign']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/28/kanye-west-bianca-censori-tiny-shorts-take-north-west-deadpool/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/kanye-west-bianca-censori-tiny-shorts-take-north-west-deadpool/ HTTP/11" 200 39903
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: bianca-censori
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: channing-tatum
+DEBUG:root:Found person: scarlett-johansson
+INFO:root:People found in article: ['kanye-west', 'bianca-censori', 'kim-kardashian', 'channing-tatum', 'scarlett-johansson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/09/devin-booker-addresses-fake-hair-accusations-viral-video-toupee/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/09/devin-booker-addresses-fake-hair-accusations-viral-video-toupee/ HTTP/11" 200 30522
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: devin-booker
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: lebron-james
+DEBUG:root:Found person: carlos-boozer
+DEBUG:root:Found person: jimmy-butler
+INFO:root:People found in article: ['devin-booker', 'kendall-jenner', 'lebron-james', 'carlos-boozer', 'jimmy-butler']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/26/bloquean-el-paso-a-ridley-scott-durante-el-allanamiento-a-diddy-en-l-a/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/26/bloquean-el-paso-a-ridley-scott-durante-el-allanamiento-a-diddy-en-l-a/ HTTP/11" 200 43353
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: ridley-scott
+DEBUG:root:Found person: kylie-jenner
+INFO:root:People found in article: ['ridley-scott', 'kylie-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/12/kim-kardashian-khloe-kardashian-india-billionaire-wedding-ceremony-fashion-celebrities/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/12/kim-kardashian-khloe-kardashian-india-billionaire-wedding-ceremony-fashion-celebrities/ HTTP/11" 200 41880
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: rihanna
+DEBUG:root:Found person: justin-bieber
+DEBUG:root:Found person: nick-jonas
+DEBUG:root:Found person: priyanka-chopra
+DEBUG:root:Found person: john-cena
+INFO:root:People found in article: ['kim-kardashian', 'khloe-kardashian', 'rihanna', 'justin-bieber', 'nick-jonas', 'priyanka-chopra', 'john-cena']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/18/chris-appleton-new-boyfriend-federico-beach-date-divorce-lukas-gage/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/18/chris-appleton-new-boyfriend-federico-beach-date-divorce-lukas-gage/ HTTP/11" 200 34169
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: chris-appleton
+DEBUG:root:Found person: lukas-gage
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['chris-appleton', 'lukas-gage', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/13/selena-gomez-emily-blunt-troll-golden-globe-lip-readers-photo-silence/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/13/selena-gomez-emily-blunt-troll-golden-globe-lip-readers-photo-silence/ HTTP/11" 200 41772
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: selena-gomez
+DEBUG:root:Found person: emily-blunt
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: miles-teller
+DEBUG:root:Found person: timothee-chalamet
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: john-krasinski
+INFO:root:People found in article: ['selena-gomez', 'emily-blunt', 'taylor-swift', 'miles-teller', 'timothee-chalamet', 'kylie-jenner', 'john-krasinski']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-sabe-lo-que-hace/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-sabe-lo-que-hace/ HTTP/11" 200 37042
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: timothee-chalamet
+DEBUG:root:Found person: christopher-nolan
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: zendaya-coleman
+INFO:root:People found in article: ['timothee-chalamet', 'christopher-nolan', 'kylie-jenner', 'zendaya-coleman']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/22/kim-kardashian-pierde-mas-de-100-000-seguidores-en-ig-y-los-swifties-inundan-la-seccion-de-comentarios/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/22/kim-kardashian-pierde-mas-de-100-000-seguidores-en-ig-y-los-swifties-inundan-la-seccion-de-comentarios/ HTTP/11" 200 43658
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: north-west
+INFO:root:People found in article: ['kim-kardashian', 'taylor-swift', 'kanye-west', 'kris-jenner', 'north-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/09/kendall-jenner-bad-bunny-first-snap-since-split/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/09/kendall-jenner-bad-bunny-first-snap-since-split/ HTTP/11" 200 40565
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: justin-bieber
+DEBUG:root:Found person: hailey-bieber
+DEBUG:root:Found person: drake
+INFO:root:People found in article: ['kendall-jenner', 'bad-bunny', 'justin-bieber', 'hailey-bieber', 'drake']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/23/kendall-jenner-devin-booker-dating-seeing-each-other-again-nothing-official/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/23/kendall-jenner-devin-booker-dating-seeing-each-other-again-nothing-official/ HTTP/11" 200 43041
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: devin-booker
+DEBUG:root:Found person: bad-bunny
+INFO:root:People found in article: ['kendall-jenner', 'devin-booker', 'bad-bunny']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/03/kim-kardashian-mobile-game-shutting-down-decade-hollywood-app/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/03/kim-kardashian-mobile-game-shutting-down-decade-hollywood-app/ HTTP/11" 200 36666
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/29/ffffkhloe-kardashian-dinosaur-tatum-birthday-party-kris-kim/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/29/ffffkhloe-kardashian-dinosaur-tatum-birthday-party-kris-kim/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/29/ffffkhloe-kardashian-dinosaur-tatum-birthday-party-kris-kim/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/29/ffffkhloe-kardashian-dinosaur-tatum-birthday-party-kris-kim/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/31/kris-jenner-faye-resnick-last-conversations-nicole-brown-simpson-oj-murder-trial-stalking-lifetime/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/31/kris-jenner-faye-resnick-last-conversations-nicole-brown-simpson-oj-murder-trial-stalking-lifetime/ HTTP/11" 200 41214
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: faye-resnick
+DEBUG:root:Found person: ron-goldman
+DEBUG:root:Found person: o-j-simpson
+INFO:root:People found in article: ['kris-jenner', 'faye-resnick', 'ron-goldman', 'o-j-simpson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/01/kylie-jenner-timothee-chalamet-spotted-together/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/01/kylie-jenner-timothee-chalamet-spotted-together/ HTTP/11" 200 40786
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: timothee-chalamet
+DEBUG:root:Found person: beyonce-knowles
+DEBUG:root:Found person: bob-dylan
+DEBUG:root:Found person: stormi-webster
+DEBUG:root:Found person: travis-scott
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: snoop-dogg
+INFO:root:People found in article: ['kylie-jenner', 'timothee-chalamet', 'beyonce-knowles', 'bob-dylan', 'stormi-webster', 'travis-scott', 'khloe-kardashian', 'snoop-dogg']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/18/kendall-jenner-bad-bunny-concert-met-gala-reunion-reconcilation/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/18/kendall-jenner-bad-bunny-concert-met-gala-reunion-reconcilation/ HTTP/11" 200 40289
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: bad-bunny
+INFO:root:People found in article: ['kendall-jenner', 'bad-bunny']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/18/kourtney-kardashian-scott-disick-travis-barker-fathers-day-snub/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/18/kourtney-kardashian-scott-disick-travis-barker-fathers-day-snub/ HTTP/11" 200 42624
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: scott-disick
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: mason-disick
+DEBUG:root:Found person: penelope-disick
+DEBUG:root:Found person: reign-disick
+INFO:root:People found in article: ['kourtney-kardashian', 'scott-disick', 'travis-barker', 'mason-disick', 'penelope-disick', 'reign-disick']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/01/kylie-kendall-jenner-singing-billie-eilish-drink-beer-car-driving-together-sisters/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/01/kylie-kendall-jenner-singing-billie-eilish-drink-beer-car-driving-together-sisters/ HTTP/11" 200 38060
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: billie-eilish
+INFO:root:People found in article: ['kylie-jenner', 'kendall-jenner', 'billie-eilish']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/28/fffffkanye-west-bianca-censori-tiny-shorts-take-north-west-deadpool/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/fffffkanye-west-bianca-censori-tiny-shorts-take-north-west-deadpool/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/28/fffffkanye-west-bianca-censori-tiny-shorts-take-north-west-deadpool/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/28/fffffkanye-west-bianca-censori-tiny-shorts-take-north-west-deadpool/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/08/kourtney-kardashian-bikini-pic-postpartum-body-message/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/08/kourtney-kardashian-bikini-pic-postpartum-body-message/ HTTP/11" 200 36124
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: khloe-kardashian
+INFO:root:People found in article: ['kourtney-kardashian', 'travis-barker', 'kim-kardashian', 'khloe-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/28/kim-kardashian-tells-fans-follow-mason-disick-instagram-account/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/28/kim-kardashian-tells-fans-follow-mason-disick-instagram-account/ HTTP/11" 200 40892
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: mason-disick
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: scott-disick
+DEBUG:root:Found person: khloe-kardashian
+INFO:root:People found in article: ['kim-kardashian', 'mason-disick', 'kourtney-kardashian', 'scott-disick', 'khloe-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/20/stars-by-the-fire-can-you-handle-the-heat/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/20/stars-by-the-fire-can-you-handle-the-heat/ HTTP/11" 200 32881
+INFO:root:Successfully fetched and parsed the page.
+INFO:root:People found in article: []
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/06/kim-kardashian-booed-tom-brady-roast-jokes-skewered-netflix/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/06/kim-kardashian-booed-tom-brady-roast-jokes-skewered-netflix/ HTTP/11" 200 42081
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: tom-brady
+DEBUG:root:Found person: kevin-hart
+DEBUG:root:Found person: jeff-ross
+DEBUG:root:Found person: will-ferrell
+DEBUG:root:Found person: o-j-simpson
+DEBUG:root:Found person: caitlyn-jenner
+INFO:root:People found in article: ['kim-kardashian', 'tom-brady', 'kevin-hart', 'jeff-ross', 'will-ferrell', 'o-j-simpson', 'caitlyn-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/08/caitlyn-jenner-no-plans-sue-kardashians-disney-hulu-elon-musk/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/08/caitlyn-jenner-no-plans-sue-kardashians-disney-hulu-elon-musk/ HTTP/11" 200 42369
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: caitlyn-jenner
+DEBUG:root:Found person: elon-musk
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: gina-carano
+INFO:root:People found in article: ['caitlyn-jenner', 'elon-musk', 'kris-jenner', 'kourtney-kardashian', 'kim-kardashian', 'khloe-kardashian', 'kendall-jenner', 'kylie-jenner', 'gina-carano']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/17/kim-kardashian-of-course-trend-video-skkn-offices/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/17/kim-kardashian-of-course-trend-video-skkn-offices/ HTTP/11" 200 37078
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/04/stevie-j-el-aliado-de-diddy-publica-un-video-de-los-famosos-que-salen-de-fiesta-con-el-magnate-del-rap/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/04/stevie-j-el-aliado-de-diddy-publica-un-video-de-los-famosos-que-salen-de-fiesta-con-el-magnate-del-rap/ HTTP/11" 200 41924
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: stevie-j
+DEBUG:root:Found person: p-diddy
+DEBUG:root:Found person: kobe-bryant
+DEBUG:root:Found person: dr-dre
+DEBUG:root:Found person: jay-z
+DEBUG:root:Found person: mary-j-blige
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: post-malone
+DEBUG:root:Found person: naomi-campbell
+DEBUG:root:Found person: cardi-b
+DEBUG:root:Found person: big-sean
+DEBUG:root:Found person: travis-scott
+DEBUG:root:Found person: the-weeknd
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: jaden-smith
+DEBUG:root:Found person: snoop-dogg
+DEBUG:root:Found person: queen-latifah
+DEBUG:root:Found person: kevin-hart
+DEBUG:root:Found person: machine-gun-kelly
+INFO:root:People found in article: ['stevie-j', 'p-diddy', 'kobe-bryant', 'dr-dre', 'jay-z', 'mary-j-blige', 'kim-kardashian', 'khloe-kardashian', 'kylie-jenner', 'post-malone', 'naomi-campbell', 'cardi-b', 'big-sean', 'travis-scott', 'the-weeknd', 'kanye-west', 'jaden-smith', 'snoop-dogg', 'queen-latifah', 'kevin-hart', 'machine-gun-kelly']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/09/selena-gomez-desmiente-los-rumores-de-pelea-con-kylie-jenner-y-timothee-chalamet/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/09/selena-gomez-desmiente-los-rumores-de-pelea-con-kylie-jenner-y-timothee-chalamet/ HTTP/11" 200 40522
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: selena-gomez
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: timothee-chalamet
+DEBUG:root:Found person: taylor-swift
+INFO:root:People found in article: ['selena-gomez', 'kylie-jenner', 'timothee-chalamet', 'taylor-swift']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/24/bianca-censori-covers-up-fur-coat-north-west-kanye-west-dinner/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/24/bianca-censori-covers-up-fur-coat-north-west-kanye-west-dinner/ HTTP/11" 200 40905
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: bianca-censori
+DEBUG:root:Found person: north-west
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kanye-west', 'bianca-censori', 'north-west', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/30/caitlyn-jenner-slams-biden-transgender-day-visibility-easter/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/30/caitlyn-jenner-slams-biden-transgender-day-visibility-easter/ HTTP/11" 200 39655
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: caitlyn-jenner
+DEBUG:root:Found person: joe-biden
+INFO:root:People found in article: ['caitlyn-jenner', 'joe-biden']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/23/tmz-tv-hot-takes-stormy-daniels-trump-stand-up-jokes-kourtney-kardashian-travis-barker-sex-story-conor-mcgregor-injury/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/23/tmz-tv-hot-takes-stormy-daniels-trump-stand-up-jokes-kourtney-kardashian-travis-barker-sex-story-conor-mcgregor-injury/ HTTP/11" 200 40065
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: stormy-daniels
+DEBUG:root:Found person: donald-trump
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: conor-mcgregor
+INFO:root:People found in article: ['stormy-daniels', 'donald-trump', 'kourtney-kardashian', 'travis-barker', 'conor-mcgregor']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/20/taylor-swift-lanza-en-youtube-un-video-recopilatorio-fortnight-con-travis-kelce/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/20/taylor-swift-lanza-en-youtube-un-video-recopilatorio-fortnight-con-travis-kelce/ HTTP/11" 200 40668
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: travis-kelce
+DEBUG:root:Found person: joe-alwyn
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['taylor-swift', 'travis-kelce', 'joe-alwyn', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/29/caitlyn-jenner-scrubbed-son-brandon-reality-tv-show-not-happy/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/29/caitlyn-jenner-scrubbed-son-brandon-reality-tv-show-not-happy/ HTTP/11" 200 38132
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: caitlyn-jenner
+DEBUG:root:Found person: david-foster
+INFO:root:People found in article: ['caitlyn-jenner', 'david-foster']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/11/selena-gomez-hace-un-rapido-regreso-a-instagram-despues-de-tomarse-un-descanso/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/11/selena-gomez-hace-un-rapido-regreso-a-instagram-despues-de-tomarse-un-descanso/ HTTP/11" 200 38356
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: selena-gomez
+DEBUG:root:Found person: gordon-ramsay
+DEBUG:root:Found person: benny-blanco
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: timothee-chalamet
+INFO:root:People found in article: ['selena-gomez', 'gordon-ramsay', 'benny-blanco', 'taylor-swift', 'kylie-jenner', 'timothee-chalamet']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/17/chris-appleton-date-harvad-graduate-normal-lukas-gage-split-divorce/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/17/chris-appleton-date-harvad-graduate-normal-lukas-gage-split-divorce/ HTTP/11" 200 39337
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: chris-appleton
+DEBUG:root:Found person: lukas-gage
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['chris-appleton', 'lukas-gage', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/05/usher-se-convierte-en-la-ultima-estrella-en-asociarse-con-skims-de-kim-kardashian/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/05/usher-se-convierte-en-la-ultima-estrella-en-asociarse-con-skims-de-kim-kardashian/ HTTP/11" 200 40324
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: usher
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: neymar
+DEBUG:root:Found person: nick-bosa
+INFO:root:People found in article: ['usher', 'kim-kardashian', 'neymar', 'nick-bosa']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/26/ridley-scott-caught-in-frustration-amid-raid-at-diddy-la-area-home/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/26/ridley-scott-caught-in-frustration-amid-raid-at-diddy-la-area-home/ HTTP/11" 200 42568
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: ridley-scott
+DEBUG:root:Found person: p-diddy
+DEBUG:root:Found person: kylie-jenner
+INFO:root:People found in article: ['ridley-scott', 'p-diddy', 'kylie-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/10/bert-kreischer-tom-segura-tom-brad-roast-nicotine-cocaine-jimmy-kimmel/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/10/bert-kreischer-tom-segura-tom-brad-roast-nicotine-cocaine-jimmy-kimmel/ HTTP/11" 200 37992
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: tom-brady
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['tom-brady', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/25/ariana-grande-jeffrey-dahmer-dream-dinner-guest-sparks-backlash/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/25/ariana-grande-jeffrey-dahmer-dream-dinner-guest-sparks-backlash/ HTTP/11" 200 40666
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: ariana-grande
+DEBUG:root:Found person: jeffrey-dahmer
+DEBUG:root:Found person: penn-badgley
+DEBUG:root:Found person: evan-peters
+DEBUG:root:Found person: chrissy-teigen
+DEBUG:root:Found person: mindy-kaling
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: anna-kendrick
+INFO:root:People found in article: ['ariana-grande', 'jeffrey-dahmer', 'penn-badgley', 'evan-peters', 'chrissy-teigen', 'mindy-kaling', 'kim-kardashian', 'anna-kendrick']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/ HTTP/11" 200 38337
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+INFO:root:People found in article: ['kourtney-kardashian', 'travis-barker']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/10/kylie-jenner-kris-jenner-new-short-hairdo/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/10/kylie-jenner-kris-jenner-new-short-hairdo/ HTTP/11" 200 37600
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: ice-spice
+DEBUG:root:Found person: timothee-chalamet
+INFO:root:People found in article: ['kylie-jenner', 'kris-jenner', 'ice-spice', 'timothee-chalamet']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/09/mob-wife-fashion-trends-hits-hollywood/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/09/mob-wife-fashion-trends-hits-hollywood/ HTTP/11" 200 33292
+INFO:root:Successfully fetched and parsed the page.
+INFO:root:People found in article: []
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/02/bad-bunny-sube-fotos-dandose-un-bano-de-burbujas-y-ensena-la-entrepierna/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/02/bad-bunny-sube-fotos-dandose-un-bano-de-burbujas-y-ensena-la-entrepierna/ HTTP/11" 200 38691
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: bad-bunny
+INFO:root:People found in article: ['bad-bunny']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/13/hot-babes-cold-snow-guess-who/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/13/hot-babes-cold-snow-guess-who/ HTTP/11" 200 34043
+INFO:root:Successfully fetched and parsed the page.
+INFO:root:People found in article: []
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/15/emmys-award-show-red-carpet-arrivals-primetime/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/15/emmys-award-show-red-carpet-arrivals-primetime/ HTTP/11" 200 35733
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: selena-gomez
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: jennifer-coolidge
+DEBUG:root:Found person: issa-rae
+DEBUG:root:Found person: donald-glover
+DEBUG:root:Found person: jon-hamm
+DEBUG:root:Found person: jessica-chastain
+DEBUG:root:Found person: charlie-puth
+DEBUG:root:Found person: jason-segel
+DEBUG:root:Found person: adam-brody
+DEBUG:root:Found person: laverne-cox
+DEBUG:root:Found person: bill-hader
+DEBUG:root:Found person: ken-jeong
+DEBUG:root:Found person: priscilla-presley
+DEBUG:root:Found person: katherine-heigl
+DEBUG:root:Found person: dylan-mcdermott
+DEBUG:root:Found person: anthony-anderson
+INFO:root:People found in article: ['selena-gomez', 'kourtney-kardashian', 'travis-barker', 'jennifer-coolidge', 'issa-rae', 'donald-glover', 'jon-hamm', 'jessica-chastain', 'charlie-puth', 'jason-segel', 'adam-brody', 'laverne-cox', 'bill-hader', 'ken-jeong', 'priscilla-presley', 'katherine-heigl', 'dylan-mcdermott', 'anthony-anderson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/22/new-photos-video-north-west-11th-birthday-kim-kardashian-proud-mom/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/22/new-photos-video-north-west-11th-birthday-kim-kardashian-proud-mom/ HTTP/11" 200 39296
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: north-west
+DEBUG:root:Found person: lala-anthony
+DEBUG:root:Found person: kai-cenat
+INFO:root:People found in article: ['kim-kardashian', 'north-west', 'lala-anthony', 'kai-cenat']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/29/travis-barker-selling-post-crash-boarding-pass-personal-note/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/29/travis-barker-selling-post-crash-boarding-pass-personal-note/ HTTP/11" 200 37826
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: kourtney-kardashian
+INFO:root:People found in article: ['travis-barker', 'kourtney-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/16/kendall-jenner-hailey-bieber-have-ladies-night-at-lakers-game/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/16/kendall-jenner-hailey-bieber-have-ladies-night-at-lakers-game/ HTTP/11" 200 33037
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: hailey-bieber
+DEBUG:root:Found person: justin-bieber
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: lebron-james
+DEBUG:root:Found person: anthony-davis
+INFO:root:People found in article: ['kendall-jenner', 'hailey-bieber', 'justin-bieber', 'bad-bunny', 'lebron-james', 'anthony-davis']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/13/khloe-kardashian-brings-kids-see-tristan-thompson-play-1st-time/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/13/khloe-kardashian-brings-kids-see-tristan-thompson-play-1st-time/ HTTP/11" 200 34548
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: tristan-thompson
+DEBUG:root:Found person: saint-west
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['khloe-kardashian', 'tristan-thompson', 'saint-west', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/10/selena-gomez-se-toma-otro-descanso-en-las-redes-sociales-tras-el-drama-de-los-golden-globes-con-kylie/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/10/selena-gomez-se-toma-otro-descanso-en-las-redes-sociales-tras-el-drama-de-los-golden-globes-con-kylie/ HTTP/11" 200 41614
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: selena-gomez
+DEBUG:root:Found person: benny-blanco
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: timothee-chalamet
+DEBUG:root:Found person: kylie-jenner
+INFO:root:People found in article: ['selena-gomez', 'benny-blanco', 'taylor-swift', 'timothee-chalamet', 'kylie-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/22/kim-kardashian-loses-100k-ig-followers-swifties-flood-comment-section/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/22/kim-kardashian-loses-100k-ig-followers-swifties-flood-comment-section/ HTTP/11" 200 42592
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: north-west
+INFO:root:People found in article: ['kim-kardashian', 'taylor-swift', 'kanye-west', 'kris-jenner', 'north-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/22/fffffkim-kardashian-khloe-kardashian-bodysuit-funny-bathroom-video/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/22/fffffkim-kardashian-khloe-kardashian-bodysuit-funny-bathroom-video/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/22/fffffkim-kardashian-khloe-kardashian-bodysuit-funny-bathroom-video/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/22/fffffkim-kardashian-khloe-kardashian-bodysuit-funny-bathroom-video/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/26/kim-kardashian-post-wrong-picture-death-row-inmate-ivan-cantu/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/26/kim-kardashian-post-wrong-picture-death-row-inmate-ivan-cantu/ HTTP/11" 200 35697
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/27/kourtney-kardashian-vaginal-prolapse-fear-rocky-birth/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/27/kourtney-kardashian-vaginal-prolapse-fear-rocky-birth/ HTTP/11" 200 38678
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+INFO:root:People found in article: ['kourtney-kardashian', 'travis-barker']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/03/tmz-investigates-kanye-west-kim-kardashian-analyze-psychology-experts/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/03/tmz-investigates-kanye-west-kim-kardashian-analyze-psychology-experts/ HTTP/11" 200 38296
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: adolf-hitler
+DEBUG:root:Found person: the-game
+INFO:root:People found in article: ['kanye-west', 'kim-kardashian', 'adolf-hitler', 'the-game']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/09/citan-a-kendall-jenner-por-saltarse-un-stop-con-hailey-bieber/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/09/citan-a-kendall-jenner-por-saltarse-un-stop-con-hailey-bieber/ HTTP/11" 200 37261
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: hailey-bieber
+INFO:root:People found in article: ['kendall-jenner', 'hailey-bieber']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/09/kris-jenner-little-tumor-cyst-kardashians-new-trailer/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/09/kris-jenner-little-tumor-cyst-kardashians-new-trailer/ HTTP/11" 200 37969
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: corey-gamble
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: tristan-thompson
+INFO:root:People found in article: ['kris-jenner', 'khloe-kardashian', 'kendall-jenner', 'kylie-jenner', 'corey-gamble', 'kim-kardashian', 'tristan-thompson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/31/kris-jenner-faye-resnick-last-conversations-nicole-brown-simpson-oj-murder-trial-stalking-lifetime/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/31/kris-jenner-faye-resnick-last-conversations-nicole-brown-simpson-oj-murder-trial-stalking-lifetime/ HTTP/11" 200 41214
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: faye-resnick
+DEBUG:root:Found person: ron-goldman
+DEBUG:root:Found person: o-j-simpson
+INFO:root:People found in article: ['kris-jenner', 'faye-resnick', 'ron-goldman', 'o-j-simpson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/28/ffffffkim-kardashian-wake-surfing-perfectly-balanced-board/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/ffffffkim-kardashian-wake-surfing-perfectly-balanced-board/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/28/ffffffkim-kardashian-wake-surfing-perfectly-balanced-board/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/28/ffffffkim-kardashian-wake-surfing-perfectly-balanced-board/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/27/bad-bunny-kendall-jenner-kim-kardashian-jeff-bezos-lauren-sanchez-hangout-greece/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/27/bad-bunny-kendall-jenner-kim-kardashian-jeff-bezos-lauren-sanchez-hangout-greece/ HTTP/11" 200 38280
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: jeff-bezos
+DEBUG:root:Found person: lauren-sanchez
+INFO:root:People found in article: ['bad-bunny', 'kendall-jenner', 'kim-kardashian', 'jeff-bezos', 'lauren-sanchez']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/25/unc-basketball-player-paxson-wojcik-kylie-jenner-dating-rumor-not-true/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/25/unc-basketball-player-paxson-wojcik-kylie-jenner-dating-rumor-not-true/ HTTP/11" 200 41429
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kylie-jenner
+INFO:root:People found in article: ['kylie-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/15/kim-kardashian-north-west-birthday-new-york-city-11/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/15/kim-kardashian-north-west-birthday-new-york-city-11/ HTTP/11" 200 37174
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: north-west
+DEBUG:root:Found person: lala-anthony
+DEBUG:root:Found person: kai-cenat
+DEBUG:root:Found person: kanye-west
+INFO:root:People found in article: ['kim-kardashian', 'north-west', 'lala-anthony', 'kai-cenat', 'kanye-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/27/khloe-kardashian-whale-kids-torment-pictures-fun-phobia/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/27/khloe-kardashian-whale-kids-torment-pictures-fun-phobia/ HTTP/11" 200 38329
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: true-thompson
+INFO:root:People found in article: ['khloe-kardashian', 'true-thompson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/19/kim-kardashian-ivanka-trump-daughter-birthday-swiftie-taylor-swift-cake/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/19/kim-kardashian-ivanka-trump-daughter-birthday-swiftie-taylor-swift-cake/ HTTP/11" 200 40927
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: ivanka-trump
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: north-west
+INFO:root:People found in article: ['kim-kardashian', 'taylor-swift', 'ivanka-trump', 'kanye-west', 'north-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/10/spencer-dinwiddie-sues-after-over-deal-involving-rare-mustang-ferrari/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/10/spencer-dinwiddie-sues-after-over-deal-involving-rare-mustang-ferrari/ HTTP/11" 200 33362
+INFO:root:Successfully fetched and parsed the page.
+INFO:root:People found in article: []
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/ HTTP/11" 200 40689
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kanye-west
+INFO:root:People found in article: ['kanye-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/21/shohei-ohtani-meets-cameron-brink-dodgers-game-tall-los-angeles-sparks/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/21/shohei-ohtani-meets-cameron-brink-dodgers-game-tall-los-angeles-sparks/ HTTP/11" 200 38100
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: shohei-ohtani
+DEBUG:root:Found person: north-west
+INFO:root:People found in article: ['kim-kardashian', 'shohei-ohtani', 'north-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/07/josh-flagg-diddy-home-raids-neighbors-real-estate-prices/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/07/josh-flagg-diddy-home-raids-neighbors-real-estate-prices/ HTTP/11" 200 41096
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: p-diddy
+DEBUG:root:Found person: josh-flagg
+DEBUG:root:Found person: kylie-jenner
+INFO:root:People found in article: ['p-diddy', 'josh-flagg', 'kylie-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/01/kylie-kendall-jenner-singing-billie-eilish-drink-beer-car-driving-together-sisters/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/01/kylie-kendall-jenner-singing-billie-eilish-drink-beer-car-driving-together-sisters/ HTTP/11" 200 38060
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: billie-eilish
+INFO:root:People found in article: ['kylie-jenner', 'kendall-jenner', 'billie-eilish']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/09/tmz-tv-hot-takes-kim-kardashian-tom-selleck-dana-white-fedex/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/09/tmz-tv-hot-takes-kim-kardashian-tom-selleck-dana-white-fedex/ HTTP/11" 200 39567
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: tom-selleck
+DEBUG:root:Found person: dana-white
+INFO:root:People found in article: ['kim-kardashian', 'tom-selleck', 'dana-white']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/28/july-2024-hot-shots-dog-days-of-summer-will-have-you-panting/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/july-2024-hot-shots-dog-days-of-summer-will-have-you-panting/ HTTP/11" 200 34119
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: ludacris
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: joseline-hernandez
+INFO:root:People found in article: ['ludacris', 'kendall-jenner', 'joseline-hernandez']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-sabe-lo-que-hace/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-sabe-lo-que-hace/ HTTP/11" 200 37042
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: timothee-chalamet
+DEBUG:root:Found person: christopher-nolan
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: zendaya-coleman
+INFO:root:People found in article: ['timothee-chalamet', 'christopher-nolan', 'kylie-jenner', 'zendaya-coleman']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/08/caitlyn-jenner-no-tiene-planes-de-demandar-a-disney-con-el-apoyo-de-elon-musk/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/08/caitlyn-jenner-no-tiene-planes-de-demandar-a-disney-con-el-apoyo-de-elon-musk/ HTTP/11" 200 42776
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: caitlyn-jenner
+DEBUG:root:Found person: elon-musk
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: gina-carano
+INFO:root:People found in article: ['caitlyn-jenner', 'elon-musk', 'kris-jenner', 'kourtney-kardashian', 'kim-kardashian', 'khloe-kardashian', 'gina-carano']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/23/kim-kardashian-quiet-kate-middleton-cancer-diagnosis-joke-online-instagram/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/23/kim-kardashian-quiet-kate-middleton-cancer-diagnosis-joke-online-instagram/ HTTP/11" 200 40443
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: kate-middleton
+DEBUG:root:Found person: saint-west
+DEBUG:root:Found person: prince-william
+INFO:root:People found in article: ['kim-kardashian', 'kate-middleton', 'saint-west', 'prince-william']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/20/kourtney-kardashian-had-sex-with-travis-barker-while-dilated-to-induce-labor/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/20/kourtney-kardashian-had-sex-with-travis-barker-while-dilated-to-induce-labor/ HTTP/11" 200 38320
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: kris-jenner
+INFO:root:People found in article: ['kourtney-kardashian', 'travis-barker', 'kris-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/17/kim-kardashian-j-lo-y-ben-affleck-acuden-al-partido-de-los-la-lakers/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/17/kim-kardashian-j-lo-y-ben-affleck-acuden-al-partido-de-los-la-lakers/ HTTP/11" 200 41772
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: saint-west
+DEBUG:root:Found person: jennifer-lopez
+DEBUG:root:Found person: ben-affleck
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: novak-djokovic
+INFO:root:People found in article: ['kim-kardashian', 'saint-west', 'jennifer-lopez', 'ben-affleck', 'bad-bunny', 'novak-djokovic']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/14/estrellas-en-el-dia-2-de-coachella-las-celebridades-se-duplican-en-el-desierto/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/14/estrellas-en-el-dia-2-de-coachella-las-celebridades-se-duplican-en-el-desierto/ HTTP/11" 200 38821
+INFO:root:Successfully fetched and parsed the page.
+INFO:root:People found in article: []
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/27/kim-kardashian-channels-marilyn-monroe-mode-photo-shoot-leopard-bikini/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/27/kim-kardashian-channels-marilyn-monroe-mode-photo-shoot-leopard-bikini/ HTTP/11" 200 40423
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: marilyn-monroe
+DEBUG:root:Found person: chris-appleton
+DEBUG:root:Found person: winnie-harlow
+DEBUG:root:Found person: john-f-kennedy
+INFO:root:People found in article: ['kim-kardashian', 'marilyn-monroe', 'chris-appleton', 'winnie-harlow', 'john-f-kennedy']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/20/khloe-kardashian-launch-video-podcast-x-elon-musk/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/20/khloe-kardashian-launch-video-podcast-x-elon-musk/ HTTP/11" 200 36382
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: elon-musk
+INFO:root:People found in article: ['khloe-kardashian', 'elon-musk']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/16/kendall-jenner-hailey-bieber-have-ladies-night-at-lakers-game/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/16/kendall-jenner-hailey-bieber-have-ladies-night-at-lakers-game/ HTTP/11" 200 33037
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: hailey-bieber
+DEBUG:root:Found person: justin-bieber
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: lebron-james
+DEBUG:root:Found person: anthony-davis
+INFO:root:People found in article: ['kendall-jenner', 'hailey-bieber', 'justin-bieber', 'bad-bunny', 'lebron-james', 'anthony-davis']
+DEBUG:matplotlib:matplotlib data path: /courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data
+DEBUG:matplotlib:CONFIGDIR=/home/liu.yixuan2/.config/matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is linux
+DEBUG:matplotlib:CACHEDIR=/home/liu.yixuan2/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/liu.yixuan2/.cache/matplotlib/fontlist-v330.json
+DEBUG:matplotlib.pyplot:Loaded backend module://matplotlib_inline.backend_inline version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend module://matplotlib_inline.backend_inline version unknown.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 0.5349999999999999
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Regular.otf', name='STIX', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-ExtraLight.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 0.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 1.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Bold.otf', name='STIX', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-BoldItalic.otf', name='STIX', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 1.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 0.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Italic.otf', name='STIX', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 0.5349999999999999
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Regular.otf', name='STIX', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-ExtraLight.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 0.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 1.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Bold.otf', name='STIX', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-BoldItalic.otf', name='STIX', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 1.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansCondensed.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 0.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/stix/STIX-Italic.otf', name='STIX', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/courses/PHYS7332.202510/shared/phys7332-env/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/05/kim-kardashian-copy-daughter-north-west-spotlight-lion-king-debut/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/05/kim-kardashian-copy-daughter-north-west-spotlight-lion-king-debut/ HTTP/11" 200 42697
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: north-west
+DEBUG:root:Found person: kanye-west
+INFO:root:People found in article: ['kim-kardashian', 'north-west', 'kanye-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/01/justin-bieber-cumple-30-anos-un-viaje-por-la-memoria/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/01/justin-bieber-cumple-30-anos-un-viaje-por-la-memoria/ HTTP/11" 200 42465
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: justin-bieber
+DEBUG:root:Found person: scooter-braun
+DEBUG:root:Found person: usher
+DEBUG:root:Found person: justin-timberlake
+DEBUG:root:Found person: sofia-richie
+DEBUG:root:Found person: nicola-peltz
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: selena-gomez
+DEBUG:root:Found person: hailey-bieber
+INFO:root:People found in article: ['justin-bieber', 'scooter-braun', 'usher', 'justin-timberlake', 'sofia-richie', 'nicola-peltz', 'kourtney-kardashian', 'selena-gomez', 'hailey-bieber']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/04/17/kim-kardashian-posa-con-un-minivestido-dorado-en-unas-fotos-tomadas-por-north-west/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/17/kim-kardashian-posa-con-un-minivestido-dorado-en-unas-fotos-tomadas-por-north-west/ HTTP/11" 200 40246
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: north-west
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: kanye-west
+INFO:root:People found in article: ['north-west', 'kim-kardashian', 'kanye-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/21/kanye-west-face-mask-milan-soccer-game-wife-bianca-censori/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/21/kanye-west-face-mask-milan-soccer-game-wife-bianca-censori/ HTTP/11" 200 39208
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: bianca-censori
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kanye-west', 'bianca-censori', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/24/kim-kardashian-platinum-white-basket-braids-hair-fans-roasted/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/24/kim-kardashian-platinum-white-basket-braids-hair-fans-roasted/ HTTP/11" 200 39038
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: bianca-censori
+INFO:root:People found in article: ['kim-kardashian', 'bianca-censori']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/15/emmys-award-show-red-carpet-arrivals-primetime/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/15/emmys-award-show-red-carpet-arrivals-primetime/ HTTP/11" 200 35733
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: selena-gomez
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: jennifer-coolidge
+DEBUG:root:Found person: issa-rae
+DEBUG:root:Found person: donald-glover
+DEBUG:root:Found person: jon-hamm
+DEBUG:root:Found person: jessica-chastain
+DEBUG:root:Found person: charlie-puth
+DEBUG:root:Found person: jason-segel
+DEBUG:root:Found person: adam-brody
+DEBUG:root:Found person: laverne-cox
+DEBUG:root:Found person: bill-hader
+DEBUG:root:Found person: ken-jeong
+DEBUG:root:Found person: priscilla-presley
+DEBUG:root:Found person: katherine-heigl
+DEBUG:root:Found person: dylan-mcdermott
+DEBUG:root:Found person: anthony-anderson
+INFO:root:People found in article: ['selena-gomez', 'kourtney-kardashian', 'travis-barker', 'jennifer-coolidge', 'issa-rae', 'donald-glover', 'jon-hamm', 'jessica-chastain', 'charlie-puth', 'jason-segel', 'adam-brody', 'laverne-cox', 'bill-hader', 'ken-jeong', 'priscilla-presley', 'katherine-heigl', 'dylan-mcdermott', 'anthony-anderson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/09/kendall-jenner-comparte-la-primera-instantanea-con-su-ex-bad-bunny/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/09/kendall-jenner-comparte-la-primera-instantanea-con-su-ex-bad-bunny/ HTTP/11" 200 40000
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kendall-jenner
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: drake
+INFO:root:People found in article: ['kendall-jenner', 'bad-bunny', 'drake']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/28/kim-kardashian-wake-surfing-perfectly-balanced-board/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/28/kim-kardashian-wake-surfing-perfectly-balanced-board/ HTTP/11" 200 38106
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/09/barbara-corcoran-kylie-jenner-travis-scott-mansion-real-estate/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/09/barbara-corcoran-kylie-jenner-travis-scott-mansion-real-estate/ HTTP/11" 200 39648
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: barbara-corcoran
+DEBUG:root:Found person: kylie-jenner
+DEBUG:root:Found person: travis-scott
+INFO:root:People found in article: ['barbara-corcoran', 'kylie-jenner', 'travis-scott']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/26/bloquean-el-paso-a-ridley-scott-durante-el-allanamiento-a-diddy-en-l-a/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/26/bloquean-el-paso-a-ridley-scott-durante-el-allanamiento-a-diddy-en-l-a/ HTTP/11" 200 43353
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: ridley-scott
+DEBUG:root:Found person: kylie-jenner
+INFO:root:People found in article: ['ridley-scott', 'kylie-jenner']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/23/michael-jackson-signed-sketches-auction/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/23/michael-jackson-signed-sketches-auction/ HTTP/11" 200 38461
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: michael-jackson
+DEBUG:root:Found person: marilyn-monroe
+DEBUG:root:Found person: queen-elizabeth-ii
+DEBUG:root:Found person: andy-warhol
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: north-west
+INFO:root:People found in article: ['michael-jackson', 'marilyn-monroe', 'queen-elizabeth-ii', 'andy-warhol', 'kim-kardashian', 'north-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/30/eminem-death-slim-shady-ai-interview-mgk-mother/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/30/eminem-death-slim-shady-ai-interview-mgk-mother/ HTTP/11" 200 None
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: eminem
+DEBUG:root:Found person: caitlyn-jenner
+DEBUG:root:Found person: christopher-reeve
+DEBUG:root:Found person: ja-rule
+DEBUG:root:Found person: moby
+DEBUG:root:Found person: fred-durst
+DEBUG:root:Found person: christina-aguilera
+DEBUG:root:Found person: drake
+DEBUG:root:Found person: rick-ross
+DEBUG:root:Found person: machine-gun-kelly
+INFO:root:People found in article: ['eminem', 'caitlyn-jenner', 'christopher-reeve', 'ja-rule', 'moby', 'fred-durst', 'christina-aguilera', 'drake', 'rick-ross', 'machine-gun-kelly']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/ HTTP/11" 404 None
+ERROR:root:Error fetching the URL: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/27/kourtney-kardashian-reveal-five-ivf-cycles-three-retrievals-rocky-son-pregnant-born-travis-barker/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/27/kourtney-kardashian-reveal-five-ivf-cycles-three-retrievals-rocky-son-pregnant-born-travis-barker/ HTTP/11" 200 39033
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kourtney-kardashian
+DEBUG:root:Found person: travis-barker
+INFO:root:People found in article: ['kourtney-kardashian', 'travis-barker']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/ HTTP/11" 200 40689
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kanye-west
+INFO:root:People found in article: ['kanye-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/12/famous-moms-who-can-do-it-all/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/12/famous-moms-who-can-do-it-all/ HTTP/11" 200 34881
+INFO:root:Successfully fetched and parsed the page.
+INFO:root:People found in article: []
+INFO:root:Fetching the URL: https://www.tmz.com/2024/03/17/kim-kardashian-la-lakers-game-jennifer-lopez-ben-affleck-bad-bunny/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/17/kim-kardashian-la-lakers-game-jennifer-lopez-ben-affleck-bad-bunny/ HTTP/11" 200 41557
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: saint-west
+DEBUG:root:Found person: jennifer-lopez
+DEBUG:root:Found person: ben-affleck
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: novak-djokovic
+INFO:root:People found in article: ['kim-kardashian', 'saint-west', 'jennifer-lopez', 'ben-affleck', 'bad-bunny', 'novak-djokovic']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/22/june-gloom-stars-in-gloomy-weather-throwin-shade-all-over-hollywood/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/22/june-gloom-stars-in-gloomy-weather-throwin-shade-all-over-hollywood/ HTTP/11" 200 33001
+INFO:root:Successfully fetched and parsed the page.
+INFO:root:People found in article: []
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/05/usher-se-convierte-en-la-ultima-estrella-en-asociarse-con-skims-de-kim-kardashian/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/05/usher-se-convierte-en-la-ultima-estrella-en-asociarse-con-skims-de-kim-kardashian/ HTTP/11" 200 40324
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: usher
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: neymar
+DEBUG:root:Found person: nick-bosa
+INFO:root:People found in article: ['usher', 'kim-kardashian', 'neymar', 'nick-bosa']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/01/18/kid-cudi-kanye-west-cool-friendship-beef/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/18/kid-cudi-kanye-west-cool-friendship-beef/ HTTP/11" 200 40246
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kid-cudi
+DEBUG:root:Found person: kanye-west
+DEBUG:root:Found person: pete-davidson
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kid-cudi', 'kanye-west', 'pete-davidson', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/16/taylor-swift-kim-kardashian-block-social-media-lose-followers-gaza-war/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/16/taylor-swift-kim-kardashian-block-social-media-lose-followers-gaza-war/ HTTP/11" 200 43825
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['taylor-swift', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/06/06/ray-j-kim-kardashian-sex-tape-paved-way-onlyfans/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/06/ray-j-kim-kardashian-sex-tape-paved-way-onlyfans/ HTTP/11" 200 43805
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: ray-j
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: shannon-sharpe
+DEBUG:root:Found person: brandy
+DEBUG:root:Found person: kanye-west
+INFO:root:People found in article: ['ray-j', 'kim-kardashian', 'shannon-sharpe', 'brandy', 'kanye-west']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/29/kim-kardashian-sends-prayers-family-ivan-cantu-inmate-texas-execution/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/29/kim-kardashian-sends-prayers-family-ivan-cantu-inmate-texas-execution/ HTTP/11" 200 36541
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/07/29/travis-barker-selling-post-crash-boarding-pass-personal-note/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/29/travis-barker-selling-post-crash-boarding-pass-personal-note/ HTTP/11" 200 37826
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: travis-barker
+DEBUG:root:Found person: kourtney-kardashian
+INFO:root:People found in article: ['travis-barker', 'kourtney-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/31/kris-jenner-faye-resnick-last-conversations-nicole-brown-simpson-oj-murder-trial-stalking-lifetime/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/31/kris-jenner-faye-resnick-last-conversations-nicole-brown-simpson-oj-murder-trial-stalking-lifetime/ HTTP/11" 200 41214
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kris-jenner
+DEBUG:root:Found person: faye-resnick
+DEBUG:root:Found person: ron-goldman
+DEBUG:root:Found person: o-j-simpson
+INFO:root:People found in article: ['kris-jenner', 'faye-resnick', 'ron-goldman', 'o-j-simpson']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/10/bert-kreischer-tom-segura-tom-brad-roast-nicotine-cocaine-jimmy-kimmel/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/10/bert-kreischer-tom-segura-tom-brad-roast-nicotine-cocaine-jimmy-kimmel/ HTTP/11" 200 37992
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: tom-brady
+DEBUG:root:Found person: kim-kardashian
+INFO:root:People found in article: ['tom-brady', 'kim-kardashian']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/13/skims-wnba-kim-kardashian-kelsey-plum-candace-parker-skylar-diggins-smith/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/13/skims-wnba-kim-kardashian-kelsey-plum-candace-parker-skylar-diggins-smith/ HTTP/11" 200 33907
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: kim-kardashian
+DEBUG:root:Found person: candace-parker
+DEBUG:root:Found person: skylar-diggins
+DEBUG:root:Found person: stephen-curry
+INFO:root:People found in article: ['kim-kardashian', 'candace-parker', 'skylar-diggins', 'stephen-curry']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/05/05/tom-brady-shuts-down-jeff-ross-over-robert-kraft-massage-joke/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/05/tom-brady-shuts-down-jeff-ross-over-robert-kraft-massage-joke/ HTTP/11" 200 35506
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: tom-brady
+DEBUG:root:Found person: robert-kraft
+DEBUG:root:Found person: jeff-ross
+DEBUG:root:Found person: will-smith
+DEBUG:root:Found person: chris-rock
+DEBUG:root:Found person: bill-belichick
+DEBUG:root:Found person: julian-edelman
+INFO:root:People found in article: ['tom-brady', 'robert-kraft', 'jeff-ross', 'will-smith', 'chris-rock', 'bill-belichick', 'julian-edelman']
+INFO:root:Fetching the URL: https://www.tmz.com/2024/02/29/lizzo-not-turn-down-jennifer-lopez-movie-role-this-is-me-now/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/29/lizzo-not-turn-down-jennifer-lopez-movie-role-this-is-me-now/ HTTP/11" 200 40106
+INFO:root:Successfully fetched and parsed the page.
+DEBUG:root:Found person: lizzo
+DEBUG:root:Found person: jennifer-lopez
+DEBUG:root:Found person: taylor-swift
+DEBUG:root:Found person: ariana-grande
+DEBUG:root:Found person: jason-momoa
+DEBUG:root:Found person: jennifer-coolidge
+DEBUG:root:Found person: vanessa-hudgens
+DEBUG:root:Found person: snoop-dogg
+DEBUG:root:Found person: sza
+DEBUG:root:Found person: bad-bunny
+DEBUG:root:Found person: khloe-kardashian
+DEBUG:root:Found person: sofia-vergara
+DEBUG:root:Found person: jane-fonda
+DEBUG:root:Found person: keke-palmer
+DEBUG:root:Found person: post-malone
+INFO:root:People found in article: ['lizzo', 'jennifer-lopez', 'taylor-swift', 'ariana-grande', 'jason-momoa', 'jennifer-coolidge', 'vanessa-hudgens', 'snoop-dogg', 'sza', 'bad-bunny', 'khloe-kardashian', 'sofia-vergara', 'jane-fonda', 'keke-palmer', 'post-malone']
+2024-09-25 12:29:13,641 - ERROR - Error fetching the URL: https://www.tmz.com/2024/07/29/ffffkhloe-kardashian-dinosaur-tatum-birthday-party-kris-kim/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/29/ffffkhloe-kardashian-dinosaur-tatum-birthday-party-kris-kim/
+2024-09-25 12:30:18,552 - ERROR - Error fetching the URL: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/13/ffffftmz-tv-hot-takes-alec-baldwin-trial-kardashian-wedding-guests-patrick-mahomes-baby/
+2024-09-25 12:31:30,104 - ERROR - Error fetching the URL: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/13/fffffkim-khloe-kardashian-covered-diamonds-day-2-billionaire-wedding/
+2024-09-25 12:31:37,276 - ERROR - Error fetching the URL: https://www.tmz.com/2024/07/19/fffffkim-kardashian-ivanka-trump-daughter-birthday-swiftie-taylor-swift-cake/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/19/fffffkim-kardashian-ivanka-trump-daughter-birthday-swiftie-taylor-swift-cake/
+2024-09-25 12:33:41,858 - ERROR - Error fetching the URL: https://www.tmz.com/2024/07/23/ffffmichael-jackson-signed-sketches-auction/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/23/ffffmichael-jackson-signed-sketches-auction/
+DEBUG:matplotlib.pyplot:Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-09-25 12:35:51,769 - ERROR - Error fetching the URL: https://www.tmz.com/2024/07/28/ffffffkim-kardashian-wake-surfing-perfectly-balanced-board/ - 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/28/ffffffkim-kardashian-wake-surfing-perfectly-balanced-board/
