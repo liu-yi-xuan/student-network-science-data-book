@@ -13,6 +13,8 @@ class_04_distributions.ipynb
 class_05_scraping1.ipynb
 class_06_scraping2.ipynb
 class_07_bigdata1.ipynb
+class_08_datascience1.ipynb
+class_09_datascience2.ipynb
 commit_us.txt
 config_git_fixer.yml
 data/Fish.csv
@@ -33,6 +35,11 @@ data/paris/network_walk.csv
 data/polblogs_edges_class.tsv
 data/polblogs_nodes_class.tsv
 data/stopwords-en.txt
+data/tsp/berlin52.gml
+data/tsp/brazil58.gml
+data/tsp/brg180.gml
+data/tsp/gr229.gml
+data/tsp/pr439.gml
 git_fixer.py
 git_fixer2.py
 images/BFS.gif
@@ -96,5 +103,8 @@ images/schedule.jpg
 images/sync_fork.png
 images/whale.jpg
 intro.md
+kardashian_problems.log
+lists_of_people.pkl
 requirements.txt
+scrape_people.py
 tracked_files.txt
