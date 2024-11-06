@@ -1,2 +1,0 @@
-images/pdfs/color_explorer_TestColormap2.pdf
-images/pngs/color_explorer_TestColormap2.png
