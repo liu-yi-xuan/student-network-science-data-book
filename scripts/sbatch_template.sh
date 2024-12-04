@@ -10,5 +10,5 @@
 
 module load anaconda3/2022.05
 source activate /courses/PHYS7332.202510/shared/phys7332-env/
-python3 /courses/PHYS7332.202510/staff/smith.alyss/network-science-data-book/scripts/rumor.py
+python3 /courses/PHYS7332.202510/students/liu.yixuan2/student-network-science-data-book/scripts/rumor.py
 
